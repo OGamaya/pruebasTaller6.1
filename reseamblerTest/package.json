@@ -1,0 +1,18 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "alguna prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mz": "^2.7.0",
+    "resemblejs": "^2.10.0"
+  },
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}
